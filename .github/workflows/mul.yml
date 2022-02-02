@@ -1,4 +1,4 @@
-name: Most used
+name: mul
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
