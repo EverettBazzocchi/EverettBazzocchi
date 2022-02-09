@@ -3,4 +3,4 @@
 + ##### <contact@everettbazzocchi.com>
 
 ## Metrics
-![Metrics](/github-metrics.svg)
+![Metrics](./github-metrics.svg)
