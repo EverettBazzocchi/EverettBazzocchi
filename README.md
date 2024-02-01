@@ -1,4 +1,4 @@
-#I NO LONGER USE GITHUB, ONLY AZURE DEVOPS
+# I NO LONGER USE GITHUB, ONLY AZURE DEVOPS
 
 ## Contact Me:
 + ##### <contact@everettbazzocchi.ca>
